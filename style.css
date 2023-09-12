@@ -120,7 +120,7 @@ header .links a:hover{
 
 /*section landing start*/
 .home{
-  background: url(/image/home.jpg) no-repeat;
+  background: url(image/home.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
